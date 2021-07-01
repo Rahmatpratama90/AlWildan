@@ -26,7 +26,6 @@ def cek_substring(string1, string2): #bikin fungsi pengecek substring
     return False #kemudian return False
 
 
-
 if __name__ == '__main__': 
     n = input() #variabel untuk menginput
     n = int(n)*2 #kemudian jadikan input an tsb dengan menjadi 2 
