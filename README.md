@@ -14,5 +14,5 @@ Software :
 # III. How to Check
 
 1.Buka hackerank terkait dan copy paste kode </br>
-2.Lihat testcase yang lolos 
+2.Lihat testcase yang lolos  </br>
 3.Jika masih banyak yang belum  lolos bisa dicoba pada terminal/vscode secara manual
